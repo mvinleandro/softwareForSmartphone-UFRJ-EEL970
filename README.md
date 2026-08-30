@@ -14,7 +14,7 @@ Here you will find the practical assignments developed throughout the semester.
 ## 🛠️ Tech Stack
 
 *   **Language:** Dart
-*   **Framework:** (Add Flutter here if you used it, otherwise remove this line)
+*   **Framework:** Flutter
 
 ## 🚀 How to Run
 
