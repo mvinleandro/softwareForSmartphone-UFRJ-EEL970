@@ -9,7 +9,7 @@ Collection of assignments, projects, and notes developed for the **Smartphone So
 
 Here you will find the practical assignments developed throughout the semester. 
 
-*   **[Trabalho-1](https://github.com/mvinleandro/softwareForSmartphone-UFRJ-EEL970/tree/main/Trabalho-1):** *(Replace this text with a 1-sentence summary of what this first app/script does)*
+*   **[Trabalho-1](https://github.com/mvinleandro/softwareForSmartphone-UFRJ-EEL970/tree/main/Trabalho-1):**
 
 ## 🛠️ Tech Stack
 
