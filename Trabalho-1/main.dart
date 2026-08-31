@@ -5,12 +5,15 @@ void main() {
   String? input = stdin.readLineSync(encoding: utf8);
   int? num = int.tryParse(input ?? '');
   if (num == null) {
-    print("Houve erro, insira um valor válido");
+    print("Entrada vazia!");
     return;
   }
-  if (num < 2) {
-    print("não é primo");
+  if (num < 0) {
+    print("Número negativo!");
     return;
+  }
+  else if (num == 0 || num == 1) {
+    print("Não é primo!");
   }
   bool resp = true;
   for (int i = 2; i * i <= num; i++) {
@@ -20,7 +23,7 @@ void main() {
     }
   }
   if (resp)
-    print("é primo");
+    print("É primo!");
   else
-    print("não é primo");
+    print("Não é primo!");
 }
