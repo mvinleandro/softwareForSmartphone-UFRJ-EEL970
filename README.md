@@ -1,23 +1,3 @@
-# EEL970 - Trabalho 1
-
-Programa em Dart que lê um número e verifica se é primo.
-
-## Como executar
-```bash
-dart main.dart
-rm -f README.md; cat > README.md <<'EOF'
-# EEL970 - Trabalho 1
-
-Programa em Dart que lê um número e verifica se é primo.
-
-## Como executar
-```bash
-dart main.dart
-
-Licença
-
-MIT
-=======
 # 📱 Smartphone Software Development (EEL970)
 
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
@@ -41,4 +21,3 @@ Here you will find the practical assignments developed throughout the semester.
 1. Clone this repository:
    ```bash
    git clone [https://github.com/mvinleandro/softwareForSmartphone-UFRJ-EEL970.git](https://github.com/mvinleandro/softwareForSmartphone-UFRJ-EEL970.git)
->>>>>>> f64bb9374968a42702b83a5a735ef956913e2f47
