@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # EEL970 - Trabalho 1
 
 Programa em Dart que lê um número e verifica se é primo.
